@@ -1,11 +1,11 @@
 # swagger-demo-flutter
 
 A Flutter project to demonstrate API code generation with Swagger Codegen. 
-This also the demo project for this [article](https://medium.com/@jacksoncwp/10x-in-flutter-development-with-swagger-codegen-ef758a9cbd21) on Medium
+This also the demo project for this [article](https://medium.com/@jacksoncwp/10x-in-flutter-development-with-swagger-codegen-ef758a9cbd21) on Medium.
 
 ## Getting Started
 
-1. Get project dependencies with the following command
+1. Get project dependencies with the following command:
 ```
 pub packages get
 ```
@@ -13,7 +13,7 @@ or
 ```
 flutter pub packages get
 ```
-2. Generate the API code with the following command
+2. Generate the API code with the following command:
 ```
 pub run build_runner build
 ```
