@@ -6,5 +6,5 @@ targets:
           input_folder: "lib/swaggers/"
           output_folder: "lib/generated_code/"
           input_urls:
-            - "https://raw.githubusercontent.com/jacksoncwp/swagger-demo-flutter/main/api_spec/auth_api.json"
+            - "https://raw.githubusercontent.com/gogovan/swagger-demo-flutter/main/api_spec/auth_api.json"
           separate_models: true
